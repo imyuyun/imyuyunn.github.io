@@ -1,0 +1,56 @@
+.konten{
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 700px;
+}
+
+.gb{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.isi{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 650px;
+    text-align: justify;
+}
+
+.kanan{
+    margin-top: -1650px;
+    margin-left: 710px;
+    margin-right: 50px;
+    text-align: justify;
+}
+
+.snf{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -450px;
+    margin-left: 740px;
+    margin-right: 50px;
+    color: red;
+}
+
+.kanan2{
+    margin-top: 460px;
+    margin-left: 800px;
+    margin-right: 50px;
+    background-color: rgb(224, 241, 241);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.nama{
+    margin-left: 1050px;
+    margin-top: -712px;
+    background-color: rgb(224, 241, 241);
+    margin-right: 50px;
+}
+
+.footer{
+    margin-top: 120px;
+    background-color: rgb(194, 3, 3);
+    padding: 30px;
+    
+}
